@@ -1,0 +1,16 @@
+.center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.account-balance{
+    width: 20%;
+    text-align: center;
+    margin: 20px;
+    
+}
+
+.amount{
+    font-size: 30pt;
+}
